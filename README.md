@@ -4,7 +4,7 @@ This is a code I used in the following video:
 
 DAMASK example tutorial | Part-2 | Duel phase steel | BCC structure
 
-Link of video: https://youtu.be/I0cYGAa3AEA
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
